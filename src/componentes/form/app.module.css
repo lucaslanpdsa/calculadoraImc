@@ -23,6 +23,7 @@ body {
   border-radius: 10px;
   border: none;
   width: 240px;
+  cursor: pointer;
 }
 
 input {
