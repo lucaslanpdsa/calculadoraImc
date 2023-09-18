@@ -1,9 +1,10 @@
 body {
-  background-image: url("C:\Users\lucas\Desktop\reactIntrodução\calculadora imc\src\assets\bg-form.png");
+  background-color: #84C7AE;
   padding: 20px 0;
 }
 
 .form {
+  border-radius: 10px;
   padding: 32px;
   background-color: #F6FBF9;
   color: #32403B;
